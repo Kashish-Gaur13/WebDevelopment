@@ -1,0 +1,11 @@
+.circle {
+    border: 5px solid red;
+    border-color: red;
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    position: absolute;
+    text-align: center;
+    line-height: 100px;
+}
